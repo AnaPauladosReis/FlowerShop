@@ -29,16 +29,16 @@ Transformando momentos especiais através das flores! 💐
 ## 🗂 Estrutura do Projeto
 
 floresca/
- ├── 📄 index.php        # Página inicial e sistema de login
- ├── 🔄 login.php        # Redirecionamento e autenticação
- ├── 📈 dashboard.php    # Painel de controle principal com métricas
- ├── 🌸 produtos.php     # Gerenciamento completo de produtos
- ├── 📦 pedidos.php      # Sistema de controle de pedidos
- ├── 👥 usuarios.php     # Administração de usuários e clientes
- ├── 📊 relatorios.php   # Relatórios e análise de dados
- ├── 🚪 logout.php       # Encerramento seguro de sessão
- ├── 🧩 header.php       # Cabeçalho compartilhado e navegação
- └── 🎨 style.css        # Estilos CSS completos e responsivos
+- ├── 📄 index.php        # Página inicial e sistema de login
+- ├── 🔄 login.php        # Redirecionamento e autenticação
+- ├── 📈 dashboard.php    # Painel de controle principal com métricas
+- ├── 🌸 produtos.php     # Gerenciamento completo de produtos
+- ├── 📦 pedidos.php      # Sistema de controle de pedidos
+- ├── 👥 usuarios.php     # Administração de usuários e clientes
+- ├── 📊 relatorios.php   # Relatórios e análise de dados
+- ├── 🚪 logout.php       # Encerramento seguro de sessão
+- ├── 🧩 header.php       # Cabeçalho compartilhado e navegação
+- └── 🎨 style.css        # Estilos CSS completos e responsivos
 
 
 ---
