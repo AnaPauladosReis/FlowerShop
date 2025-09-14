@@ -1,0 +1,8 @@
+floresca/
+├── index.php
+├── login.php
+├── dashboard.php
+├── produtos.php
+├── usuarios.php
+├── style.css
+└── logout.php
