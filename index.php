@@ -24,12 +24,10 @@ if($_SERVER['REQUEST_METHOD'] == 'POST') {
 }
 ?>
 
-
 <div class="login-body">
     <div class="login-container">
         <div class="logo">
-            <h1>FLORESÇA</h1>
-            <h2>FLOWER STUDIO</h2>
+            <img src="imgs/logo preta.png" alt="logo-preta" width="300" height="300" />
         </div>
         
         <form method="POST" action="" class="login-form">
